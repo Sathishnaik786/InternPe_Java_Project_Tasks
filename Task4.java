@@ -1,3 +1,4 @@
+//Find a single duplicate in an array of integers
 class Task4 {
     public static int findduplicate(int[] arr, int n) {
 	if (n <= 1) return -1;
