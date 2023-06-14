@@ -1,3 +1,4 @@
+//Create an Infinite loop from scratch
 class Task1 {
 public static void main(String args[]) {
     boolean a = true;
