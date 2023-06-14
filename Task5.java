@@ -1,3 +1,4 @@
+//Find a non-unique duplicate in an array of integers
 public class Task5 {
   public static void main(String[] args) 
     {
